@@ -1,0 +1,23 @@
+Energy price：
+Power grid：{（10:00-14:00，17:00-22:00）：（0.126$/kWh）；（8:00-10:00，14:00-17:00，22:00-23:00）：（0.0779$/kWh）；（23:00-8:00）：（0.048$/kWh）}
+Triple supply：0.052$/kWh
+photovoltaic：0.045$/kWh
+energy storage：Depending on the type of energy being charged
+
+
+Energy availability for a single cycle：
+Power grid：9999999kWh
+Triple supply：1300kWh
+photovoltaic：{（0:00-6:00，18:00-24:00）：（0kWh）；（6:00-7:00，17:00-18:00）：（400kWh）；（7:00-8:00，16:00-17:00）：（600kWh）；（8:00-9:00，15:00-16:00）：（800kWh）；（9:00-15:00）：（1000kWh）}
+energy storage：Depends on the amount of energy charged
+
+Carbon emissions per unit of energy：
+Power grid：0.997kg/kWh
+Triple supply：0.25 kg/kWh
+photovoltaic：0.04 kg/kWh
+energy storage：Depending on the type of energy being charged
+
+energy storage：
+Energy conversion rate (available amount of charged energy/total amount of charged energy): 0.95
+Capacity: 3000 kWh
+Maximum charging capacity of energy storage system per week: 1000 kWh
